@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StationSearch</string>
+    <string name="hint_station_name">駅名を入力</string>
+    <string name="btn_load">更新</string>
+    <string name="txt_empty_message">データがありません。</string>
+    <string name="btn_prev">前の駅</string>
+    <string name="btn_next">次の駅</string>
+    <string name="dialog_receiving">データ受信中。。。</string>
+</resources>
